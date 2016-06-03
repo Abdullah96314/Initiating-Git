@@ -1,4 +1,5 @@
 Goal Setting
+SMART move
 SPECIFIC
 MEASURABLE
 ACHIEVABLE
@@ -13,11 +14,13 @@ MEASURABLE
   first year
    learn everything as a frontend dev
    learn everything as a backend dev
+
 ACHIEVABLE
  Yes, with hard work
 
 REALISTIC
  Everything is tech world is realistic
+
 TIMELY
  Flexible if needed
  No stress
